@@ -8,4 +8,4 @@
 /_/  \____/____/_/ /_/_/         Contact if any questions
 */
 ```
-Basic Hangman Game from Python and tKinter, Currently WIP
+Basic Hangman Game from Python and tKinter, Currently a WIP
